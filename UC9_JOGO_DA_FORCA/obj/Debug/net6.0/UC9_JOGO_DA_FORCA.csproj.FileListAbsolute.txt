@@ -1,0 +1,45 @@
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.exe
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.deps.json
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.runtimeconfig.json
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfoInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfo.cs
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.genruntimeconfig.cache
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.exe
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.deps.json
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.runtimeconfig.json
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.GeneratedMSBuildEditorConfig.editorconfig
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfoInputs.cache
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfo.cs
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+T:\Cursos Tecnicos\9900230964_TECINF_A2022_T08112023\Pastas Pessoais\André\UC_9\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.genruntimeconfig.cache
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.exe
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.deps.json
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.runtimeconfig.json
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\bin\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfoInputs.cache
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.AssemblyInfo.cs
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.CoreCompileInputs.cache
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.dll
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\ref\UC9_JOGO_DA_FORCA.dll
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.pdb
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.genruntimeconfig.cache
+C:\Users\andre.lgpinto\source\repos\UC9_JOGO_DA_FORCA\UC9_JOGO_DA_FORCA\obj\Debug\net6.0\UC9_JOGO_DA_FORCA.csproj.AssemblyReference.cache
